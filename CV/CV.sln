@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ABE0C75E-8097-4EE5-A529-B700139D55C8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\Prova HTML\CV.html = ..\..\..\..\Desktop\Prova HTML\CV.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F810E7-52E2-49E7-AFD4-7873865E244A}
+	EndGlobalSection
+EndGlobal
